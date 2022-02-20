@@ -1,2 +1,2 @@
 # Python Snake
-Python Snake game developed as a learning project
+Python Snake game using the turtle module. Developed as a learning project.

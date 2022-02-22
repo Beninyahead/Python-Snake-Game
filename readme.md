@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python Snake
 Python Snake game using the turtle module. Developed as a learning project.
 
@@ -22,7 +21,3 @@ scoreboard.py:
 -------
 * An extention of the Turtle class for screen writing scores and game over. 
 * Tracks current score and highscore. Highscore is read from .txt file and a new highscore is written to the txt file.
-=======
-# Python Snake Game
-Python Snake game using the turtle module. Developed as a learning project.
->>>>>>> c02d4f2685600a7906fb9ec45569daeaae84293b
